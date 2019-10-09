@@ -5,4 +5,5 @@ terraform {
     workspaces {
       name = "hashicat-azure"
     }
-  }}
+  }
+  }
